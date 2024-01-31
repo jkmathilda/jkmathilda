@@ -4,6 +4,9 @@
   
 #   Hi, it's @jkmathilda❕
 
+### Contact Info
+email: jkmathilda627@gmail.com
+
   </div>
  
 ### ▪️Programing Languages
