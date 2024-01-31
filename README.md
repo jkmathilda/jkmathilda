@@ -6,8 +6,7 @@
 
   </div>
  
-### ▪️Programing Languages
-
+## ▪️Programing Languages
   
  <br/>
  
@@ -17,7 +16,14 @@
  <br/>
  <br/>
 
-
+## ▪️AI Development
+ ### Langchain 🦜🔗
+ <br/>
+ 
+<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/dalle-007396?style=for-the-badge&logo=DALL.E&logoColor=white">
+ <br/>
+ <br/>
 
 
 
