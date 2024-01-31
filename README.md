@@ -12,7 +12,7 @@
  
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-49B48A?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-FFE953?style=for-the-badge&logo=java&logoColor=white">
  <br/>
  <br/>
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/flask-181717?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/vim-1BB76E?style=for-the-badge&logo=vim&logoColor=white">
+<img src="https://img.shields.io/badge/vim-49B48A?style=for-the-badge&logo=vim&logoColor=white">
  <br/>
  <br/>
 
