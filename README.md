@@ -4,10 +4,10 @@
   
 #   Hi, it's @jkmathilda❕
 
+  </div>
+
 ### Contact Info
 email: jkmathilda627@gmail.com
-
-  </div>
  
 ### ▪️Programing Languages
   
