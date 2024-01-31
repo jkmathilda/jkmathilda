@@ -36,6 +36,7 @@
 
  ### ▪️Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmathilda&layout=compact&theme=dracula)](https://github.com/jkmathilda)
+![@jkmathilda's github stats](https://github-readme-stats.vercel.app/api?username=jkmathilda&show_icons=true&theme=radical)
 
 
 <!--
