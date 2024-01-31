@@ -18,7 +18,6 @@
 
 ### ▪️AI Development
  **Langchain 🦜🔗**
- 
  <br/>
 <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/DALL·E-FF0089?style=for-the-badge&logo=DALL.E&logoColor=white">
