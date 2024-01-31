@@ -4,13 +4,16 @@
    <div align= "center">
 
 # 👋 Hi, it's @jkmathilda
+</div>
     
 ## ▪️Programing Languages 
+ <br/>
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
  <br/>
  <br/>
+
 
 
 
