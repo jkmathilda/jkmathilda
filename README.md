@@ -9,26 +9,6 @@
  <br/>
 
 
- # test
- <div align="">
- <br/>
-  <div align= "center">
-  
-##   AI, Data-mining, Backend, Semi-conductor
-
-  </div>
- 
-### 👉 Programming languages
-
-  
- <br/>
- 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=C&logoColor=white">
- <br/>
- <br/>
-
 
 
 <!--
