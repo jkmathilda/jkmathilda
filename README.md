@@ -1,4 +1,3 @@
-<div align= "center"> </div><h1>👋 Hi, it's @jkmathilda </h1></div>
 
  <div align="">
   <br/>
