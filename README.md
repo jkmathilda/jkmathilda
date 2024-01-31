@@ -17,7 +17,6 @@
  <br/>
 
 ### ▪️AI Development
- **Langchain 🦜🔗**
  <br/>
 <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/DALL·E-FF0089?style=for-the-badge&logo=DALL.E&logoColor=white">
@@ -30,7 +29,7 @@
  <br/>
 <img src="https://img.shields.io/badge/flask-181717?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/vi-49B48A?style=for-the-badge&logo=vi&logoColor=white">
+<img src="https://img.shields.io/badge/vim-49B48A?style=for-the-badge&logo=vim&logoColor=white">
  <br/>
  <br/>
 
