@@ -5,8 +5,6 @@
 #   Hi, it's @jkmathilda❕<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
   </div>
-
-I am a student at University of Waterloo, studying computer science. I am interested in AI devleopment. I always seek new challenges and opportunities to improve. 
  
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
