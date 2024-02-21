@@ -6,8 +6,7 @@
 
   </div>
 
-### Contact Info
-</a> <a href="mailto:jkmathilda627@gmail.com">    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+### Contact Info </a> <a href="mailto:jkmathilda627@gmail.com">    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
  
 ### ▪️Programing Languages
  
