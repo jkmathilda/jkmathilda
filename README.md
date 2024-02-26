@@ -2,7 +2,7 @@
  <br/>
   <div align= "center">
   
-#   Hi, it's @jkmathilda❕<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jkmathilda627@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+#   Hi, it's @jkmathilda❕</a> <a href="mailto:jkmathilda627@gmail.com">    <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jkmathilda627@gmail.com"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
   </div>
  
