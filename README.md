@@ -19,10 +19,11 @@
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/vim-49B48A?style=for-the-badge&logo=vim&logoColor=white">
 
-<img src="https://img.shields.io/badge/javascript-FFE953?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/html-FFE953?style=for-the-badge&logo=html&logoColor=black">
-<img src="https://img.shields.io/badge/css-FFE953?style=for-the-badge&logo=css&logoColor=black">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmathilda&layout=compact&theme=radical)](https://github.com/jkmathilda)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jkmathilda&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
