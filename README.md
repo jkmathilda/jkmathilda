@@ -5,25 +5,29 @@
 #   Hi, it's @jkmathilda❕</a> <a href="mailto:jkmathilda627@gmail.com">    <img         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jkmathilda627@gmail.com"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
   </div>
- 
-<img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-FFE953?style=for-the-badge&logo=java&logoColor=white">
-
-<img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/DALL·E-FF0089?style=for-the-badge&logo=DALL.E&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-9999FF?style=for-the-badge&logo=LangChain&logoColor=white">
-<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-
-<img src="https://img.shields.io/badge/flask-181717?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/vim-49B48A?style=for-the-badge&logo=vim&logoColor=white">
-
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+ <div>
+  <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-FFE953?style=for-the-badge&logo=java&logoColor=white">
+ </div>
+ <div>
+  <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/DALL·E-FF0089?style=for-the-badge&logo=DALL.E&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-9999FF?style=for-the-badge&logo=LangChain&logoColor=white">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+ </div>
+ <div>
+  <img src="https://img.shields.io/badge/flask-181717?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/vim-49B48A?style=for-the-badge&logo=vim&logoColor=white">
+ </div>
+ <div>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+ </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmathilda&layout=compact&theme=radical)](https://github.com/jkmathilda)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jkmathilda&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
