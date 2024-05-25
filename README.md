@@ -10,18 +10,18 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-FFE953?style=for-the-badge&logo=java&logoColor=white">
  </div>
- <div>
+ <div align="center">
   <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/DALL·E-FF0089?style=for-the-badge&logo=DALL.E&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-9999FF?style=for-the-badge&logo=LangChain&logoColor=white">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
  </div>
- <div>
+ <div align="center">
   <img src="https://img.shields.io/badge/flask-181717?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   <img src="https://img.shields.io/badge/vim-49B48A?style=for-the-badge&logo=vim&logoColor=white">
  </div>
- <div>
+ <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
