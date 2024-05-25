@@ -31,6 +31,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmathilda&layout=compact&theme=radical)](https://github.com/jkmathilda)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jkmathilda&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+ <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-FFE953?style=for-the-badge&logo=java&logoColor=white">
 
 
 <!--
