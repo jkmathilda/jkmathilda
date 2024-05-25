@@ -28,9 +28,10 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
  </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmathilda&layout=compact&theme=radical)](https://github.com/jkmathilda)
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jkmathilda&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+ <div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkmathilda&layout=compact&theme=radical)](https://github.com/jkmathilda)
+ </div>
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jkmathilda&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 
 
