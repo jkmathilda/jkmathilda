@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
  </div>
  <div align="center">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
- </div>
- <div align="center">
   <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/DALL·E-FF0089?style=for-the-badge&logo=DALL.E&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-9999FF?style=for-the-badge&logo=LangChain&logoColor=white">
