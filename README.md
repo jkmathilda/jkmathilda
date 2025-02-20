@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/DALL·E-FF0089?style=for-the-badge&logo=DALL.E&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-9999FF?style=for-the-badge&logo=LangChain&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
  </div>
  <div align="center">
   <img src="https://img.shields.io/badge/flask-181717?style=for-the-badge&logo=flask&logoColor=white">
