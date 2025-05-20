@@ -25,8 +25,6 @@
  </div>
  <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
  </div>
  <div align="center">
   <img src="https://img.shields.io/badge/flask-181717?style=for-the-badge&logo=flask&logoColor=white">
