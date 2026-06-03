@@ -34,10 +34,6 @@
  </div>
 
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jkmathilda&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
-
-
-
 <!--
 **jkmathilda/jkmathilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
